@@ -94,7 +94,7 @@
 
                             <div class="row">
                                     <div class="col-md-12 mb-12">
-                                        <input type="submit" value="Sign up" class="btn btn-default hvr-hover btn-cart w-100">
+                                        <input type="submit" value="Log In" class="btn btn-default hvr-hover btn-cart w-100">
                                     </div>
                             </div>
                             <hr class="mb-1"> 
