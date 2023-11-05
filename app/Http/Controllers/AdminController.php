@@ -14,7 +14,7 @@ class AdminController extends Controller
     }
 
     public function addcategory(){
-        //$categories = Category::get();
+      
         return view('admin.addcategory');
     }
 
